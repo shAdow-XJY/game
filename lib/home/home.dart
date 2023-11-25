@@ -14,6 +14,7 @@ class MyHomePage extends StatefulWidget {
 class _MyHomePageState extends State<MyHomePage> {
   var obj = [
     {'gameName': 'tic tac toe', 'imageUrl': 'assets/images/tic_tac_toe.png', 'linkUrl': 'https://shadowplusing.website/tic_tac_toe/'},
+    {'gameName': 'snake game', 'imageUrl': 'assets/images/snake_game.png', 'linkUrl': 'https://shadowplusing.website/snake_game/'},
   ];
 
   int crossAxisCount = 5;
