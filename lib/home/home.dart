@@ -13,7 +13,7 @@ class MyHomePage extends StatefulWidget {
 
 class _MyHomePageState extends State<MyHomePage> {
   var obj = [
-    {'gameName': 'game 1(ing)', 'imageUrl': 'assets/images/1.png', 'linkUrl': 'https://github.com/shAdow-XJY/game'},
+    {'gameName': 'tic tac toe', 'imageUrl': 'assets/images/tic_tac_toe.png', 'linkUrl': 'https://github.com/shAdow-XJY/tic_tac_toe'},
   ];
 
   int crossAxisCount = 5;
