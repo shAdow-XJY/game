@@ -58236,7 +58236,7 @@ r=r[b].i(0,"linkUrl")
 return new A.kx(q,s,r==null?"":r,null)},
 $S:340}
 A.Ak.prototype={
-L(a){return new A.qI(B.Ch,"Shadow Note View",A.a7Y(null,B.fr,null),!1,null)}}
+L(a){return new A.qI(B.Ch,"Shadow Game Center",A.a7Y(null,B.fr,null),!1,null)}}
 A.Sr.prototype={
 MZ(a){$.a2s().l(0,this,a)}}
 A.md.prototype={
