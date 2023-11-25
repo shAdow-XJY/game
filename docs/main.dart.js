@@ -58210,7 +58210,7 @@ this.d1()
 this.m3()}}
 A.qT.prototype={
 ap(){var s=t.N
-return new A.GC(A.b([A.aH(["gameName","tic tac toe","imageUrl","assets/images/tic_tac_toe.png","linkUrl","https://github.com/shAdow-XJY/tic_tac_toe"],s,s)],t.A7),B.k)}}
+return new A.GC(A.b([A.aH(["gameName","tic tac toe","imageUrl","assets/images/tic_tac_toe.png","linkUrl","https://shadowplusing.website/tic_tac_toe/"],s,s)],t.A7),B.k)}}
 A.GC.prototype={
 L(a){var s=null,r=A.ar(B.d.bh(229.5),62,62,97),q=A.b([A.a6v(s,B.y2,new A.a_e(),s,s)],t.b)
 return new A.rU(new A.oU(B.Je,q,0,B.wH,!1,new A.Hx(s,s,1/0,56),s),A.xZ(s,new A.BW(new A.a_f(this),s),s,new A.dP(B.wG,s,s,A.xv(20),B.zU,s,B.aE),s,B.xy,B.xD,s),r,s)}}
