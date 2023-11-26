@@ -16,6 +16,7 @@ class _MyHomePageState extends State<MyHomePage> {
     {'gameName': 'tic tac toe', 'imageUrl': 'assets/images/tic_tac_toe.png', 'linkUrl': 'https://shadowplusing.website/tic_tac_toe/'},
     {'gameName': 'snake game', 'imageUrl': 'assets/images/snake_game.png', 'linkUrl': 'https://shadowplusing.website/snake_game/'},
     {'gameName': 'rock paper scissors', 'imageUrl': 'assets/images/rock_paper_scissors.png', 'linkUrl': 'https://shadowplusing.website/rock_paper_scissors/'},
+    {'gameName': 'parkour game', 'imageUrl': 'assets/images/parkour_game.png', 'linkUrl': 'https://shadowplusing.website/parkour_game/'},
   ];
 
   int crossAxisCount = 5;

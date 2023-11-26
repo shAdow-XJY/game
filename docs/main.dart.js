@@ -58210,7 +58210,7 @@ this.d1()
 this.m3()}}
 A.qT.prototype={
 ap(){var s=t.N
-return new A.GC(A.b([A.aF(["gameName","tic tac toe","imageUrl","assets/images/tic_tac_toe.png","linkUrl","https://shadowplusing.website/tic_tac_toe/"],s,s),A.aF(["gameName","snake game","imageUrl","assets/images/snake_game.png","linkUrl","https://shadowplusing.website/snake_game/"],s,s),A.aF(["gameName","rock paper scissors","imageUrl","assets/images/rock_paper_scissors.png","linkUrl","https://shadowplusing.website/rock_paper_scissors/"],s,s)],t.A7),B.k)}}
+return new A.GC(A.b([A.aF(["gameName","tic tac toe","imageUrl","assets/images/tic_tac_toe.png","linkUrl","https://shadowplusing.website/tic_tac_toe/"],s,s),A.aF(["gameName","snake game","imageUrl","assets/images/snake_game.png","linkUrl","https://shadowplusing.website/snake_game/"],s,s),A.aF(["gameName","rock paper scissors","imageUrl","assets/images/rock_paper_scissors.png","linkUrl","https://shadowplusing.website/rock_paper_scissors/"],s,s),A.aF(["gameName","parkour game","imageUrl","assets/images/parkour_game.png","linkUrl","https://shadowplusing.website/parkour_game/"],s,s)],t.A7),B.k)}}
 A.GC.prototype={
 L(a){var s=null,r=A.ar(B.d.bh(229.5),62,62,97),q=A.b([A.a6v(s,B.y2,new A.a_e(),s,s)],t.b)
 return new A.rU(new A.oU(B.Je,q,0,B.wH,!1,new A.Hx(s,s,1/0,56),s),A.xZ(s,new A.BW(new A.a_f(this),s),s,new A.dP(B.wG,s,s,A.xv(20),B.zU,s,B.aE),s,B.xy,B.xD,s),r,s)}}
@@ -58225,7 +58225,7 @@ p=this.a
 s=p.e
 r=!0
 r=r?B.uA:q
-return new A.mq(new A.VD(s,5,10,0.9),new A.Vy(new A.a_d(p),3,!0,!0,!0,q),q,B.aZ,!1,q,q,r,!1,q,3,B.b1,B.DK,q,B.bv,q)},
+return new A.mq(new A.VD(s,5,10,0.9),new A.Vy(new A.a_d(p),4,!0,!0,!0,q),q,B.aZ,!1,q,q,r,!1,q,4,B.b1,B.DK,q,B.bv,q)},
 $S:339}
 A.a_d.prototype={
 $2(a,b){var s,r=this.a.d,q=r[b].i(0,"gameName")
